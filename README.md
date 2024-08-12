@@ -1,5 +1,6 @@
 # Vignesh Kannan
-** AI Engineer | Medical Imaging | Deep Learning Enthusiast ** 
+**AI Engineer | Medical Imaging | Deep Learning Enthusiast**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-VigneshKannan-blue)](https://www.linkedin.com/in/vigneshkannan/) [![Gmail](https://img.shields.io/badge/Email-gvkannan.work%40gmail.com-red)](mailto:gvkannan.work@gmail.com) 
  
 About Me
