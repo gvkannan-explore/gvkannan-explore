@@ -38,9 +38,13 @@ I'm an AI Engineer with over 4+ years of experience in developing advanced deep 
 
 
 Selected Publications:
-* Seeing beyond cancer: multi-institutional validation of object localization and 3D semantic segmentation using deep learning for breast MRI [Publication](#https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/12927/129270H/Seeing-beyond-cancer--multi-institutional-validation-of-object-localization/10.1117/12.3009341.short)[arvix](#https://arxiv.org/abs/2311.16213)
-* Performance of an AI-powered Visualization Software Platform for Precision Surgery in Breast Cancer Patients [Link](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.e12618)
-* A 3D Visualization Method for Breast Cancer Surgeons and Patients [Link](#https://aacrjournals.org/cancerres/article/83/5_Supplement/P4-02-29/717901/Abstract-P4-02-29-A-3D-Visualization-Method-for)
+* Seeing beyond cancer: multi-institutional validation of object localization and 3D semantic segmentation using deep learning for breast MRI
+[Publication](#https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/12927/129270H/Seeing-beyond-cancer--multi-institutional-validation-of-object-localization/10.1117/12.3009341.short)
+[arvix](#https://arxiv.org/abs/2311.16213)
+* Performance of an AI-powered Visualization Software Platform for Precision Surgery in Breast Cancer Patients
+[Link](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.e12618)
+* A 3D Visualization Method for Breast Cancer Surgeons and Patients
+[Link](#https://aacrjournals.org/cancerres/article/83/5_Supplement/P4-02-29/717901/Abstract-P4-02-29-A-3D-Visualization-Method-for)
 
 Let's Connect
 I'm always open to collaborating on innovative projects in AI and healthcare. Feel free to reach out via [LinkedIn](#https://www.linkedin.com/in/vignesh-k-622127117/)
