@@ -22,7 +22,7 @@ I'm an AI Engineer with over 4+ years of experience in developing advanced deep 
 - Implemented SAM-like Data-flywheel to scale the data generation.
 [View Project](https://simbiosys.com/tumorsight-plan/)
 
-### 2. **Benchamrking 3D Segmentation competitions in under $50**
+### 2. **Benchmarking 3D Segmentation competitions in under $50**
 - Working on nn-UNet-esque customizable segmentation pipeline to develop and test off-the-shelf segmentation models with minimal intervention.
 - Create end-to-end pipeline that delivers a dockerized version of the best model along with a model-card.
 [View Project](https://github.com/gvkannan-explore/AbdomenCT_Seg)
