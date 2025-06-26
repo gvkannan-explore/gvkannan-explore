@@ -20,7 +20,7 @@ I'm an AI Engineer with over 4+ years of experience in developing advanced deep 
 - Improved clinical performance by 15% and reduced catastrophic failures by 95%.
 - Automated the training and evaluation pipeline using Docker and AWS EC2/ECS.
 - Implemented SAM-like Data-flywheel to scale the data generation.
-[View Project](https://simbiosys.com/tumorsight-plan/)
+[View Project](https://simbiosys.com/tumorsight-viz/)
 
 ### 2. **Benchmarking 3D Segmentation competitions in under $50**
 - Working on nn-UNet-esque customizable segmentation pipeline to develop and test off-the-shelf segmentation models with minimal intervention.
