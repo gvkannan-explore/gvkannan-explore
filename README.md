@@ -18,7 +18,7 @@ ML Engineer at SimBioSys with 4+ years of experience taking deep learning models
 - **Data science:** Python, SQL, Pandas, Scikit-Learn
 - **Methods:** Segmentation, classification, clustering, survival analysis, retrieval
 
-## Featured projects
+## Work at SimBioSys
 
 1. **Breast DCE-MRI segmentation (FDA-cleared: K231130, K243189, K251766)**
    - Led the design, development and deployment of 3D multi-label segmentation models for breast DCE-MRI and cut the false-negative rate from ~45% to under 10%.
@@ -33,40 +33,42 @@ ML Engineer at SimBioSys with 4+ years of experience taking deep learning models
 3. **Clinical document extraction with small LLMs**
    - Cut manual curation by 40% with a HIPAA-compliant pipeline (OCR and small LLMs), deployed internally on ~3,000 pathology reports, that returns source-cited Pydantic outputs and sends low-confidence cases to human review.
 
-4. **MedScout: clinical trial triage agent** *(in progress)*
+## Selected publications
+- **Seeing beyond cancer: multi-institutional validation of object localization and 3D semantic segmentation using deep learning for breast MRI.** SPIE Medical Imaging, 2024. [SPIE](https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/12927/129270H/Seeing-beyond-cancer--multi-institutional-validation-of-object-localization/10.1117/12.3009341.short) · [arXiv](https://arxiv.org/abs/2311.16213)
+- **Performance of an AI-powered visualization software platform for precision surgery in breast cancer patients.** npj Breast Cancer, 2024. [npj](https://doi.org/10.1038/s41523-024-00696-6) · [ASCO abstract](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.e12618)
+- **A 3D visualization method for breast cancer surgeons and patients.** AACR. [Link](https://aacrjournals.org/cancerres/article/83/5_Supplement/P4-02-29/717901/Abstract-P4-02-29-A-3D-Visualization-Method-for)
+
+## Personal projects
+
+1. **MedScout: clinical trial triage agent** *(in progress)*
    - Building a LangGraph agent that monitors and triages clinical trials through the ClinicalTrials.gov API.
    - Evaluating it against a small set of patient profiles, with tracing in LangSmith.
 
-5. **PubMed RAG** *(in progress)*
+2. **PubMed RAG** *(in progress)*
    - Building a RAG system over breast cancer PubMed abstracts that cites the PMIDs it retrieves and flags unsupported claims with a deterministic validator.
    - Its eval harness scores retrieval quality, citation faithfulness and how well an LLM judge agrees with human labels.
    - [View Project](https://github.com/gvkannan-explore/rag-project)
 
-6. **MultiLabel_N24: fine-tuning vs zero-shot LLMs**
+3. **MultiLabel_N24: fine-tuning vs zero-shot LLMs**
    - Fine-tuned RoBERTa and ModernBERT on N24News and benchmarked them against zero-shot LLMs served through vLLM.
    - The fine-tuned models beat the zero-shot LLMs on 8 out-of-distribution news articles from 2025-2026.
    - [View Project](https://github.com/gvkannan-explore/MultiLabel_N24)
 
 ### Earlier projects
 
-7. **COVID detection and severity assessment**
+1. **COVID detection and severity assessment**
    - Created a pipeline using DenseNet variants for detecting COVID-19 and assessing severity from CXR images.
    - Made the models less sensitive to adversarial examples and data noise.
    - [View Project](https://github.com/gvigkannan/COVID_CXR)
 
-8. **Ensemble-based grasp detection using neural networks**
+2. **Ensemble-based grasp detection using neural networks**
    - Compared ensembling techniques for deep-learning robot grasping algorithms.
    - [View Project](https://github.com/gvigkannan/Stacking_Cornell/tree/main)
 
-9. **Benchmarking 3D segmentation competitions in under $50** *(paused)*
+3. **Benchmarking 3D segmentation competitions in under $50** *(paused)*
    - An nnU-Net-style segmentation pipeline for testing off-the-shelf models with little manual intervention.
    - The goal is an end-to-end pipeline that delivers a dockerized best model with a model card.
    - [View Project](https://github.com/gvkannan-explore/AbdomenCT_Seg)
-
-## Selected publications
-- **Seeing beyond cancer: multi-institutional validation of object localization and 3D semantic segmentation using deep learning for breast MRI.** SPIE Medical Imaging, 2024. [SPIE](https://journals.spiedigitallibrary.org/conference-proceedings-of-spie/12927/129270H/Seeing-beyond-cancer--multi-institutional-validation-of-object-localization/10.1117/12.3009341.short) · [arXiv](https://arxiv.org/abs/2311.16213)
-- **Performance of an AI-powered visualization software platform for precision surgery in breast cancer patients.** npj Breast Cancer, 2024. [npj](https://doi.org/10.1038/s41523-024-00696-6) · [ASCO abstract](https://ascopubs.org/doi/10.1200/JCO.2024.42.16_suppl.e12618)
-- **A 3D visualization method for breast cancer surgeons and patients.** AACR. [Link](https://aacrjournals.org/cancerres/article/83/5_Supplement/P4-02-29/717901/Abstract-P4-02-29-A-3D-Visualization-Method-for)
 
 ## Writing
 
